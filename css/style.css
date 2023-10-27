@@ -1,0 +1,44 @@
+.container {
+background-color: #f5f5f5;
+padding: 50px;
+margin-left: 0 auto;
+margin-right:0 auto;
+border: 1px solid #aba4a4;
+text-align: center;
+}
+
+p {
+width: 800px;
+font-family: tahoma;
+}
+
+h2 {
+font-size: 24px;
+font-family: tahoma;
+text-align: center;
+}
+
+h3{
+    font-size: 20px;
+    font-family: tahoma;
+}
+
+img {
+ width: 190px;   
+} 
+
+a {
+    background-color: #787878;;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 15px ;
+    border-radius: 15px;
+    line-height: 5;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+span{
+    font-weight: bold;
+    color: #333;
+}
